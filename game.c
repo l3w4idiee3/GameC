@@ -18,7 +18,7 @@ int main()
     {
         printf("The game has started\n\n");
     }
-    else if (i ==0)
+    else if (i == 0)
     {
         printf("The game has ended\n\n");
     }
