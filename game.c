@@ -58,7 +58,7 @@ int main()
         printf("4) Mt.Longonot\n");
 
         printf("Enter your Answer\n");
-        scanf("%d", ans2);
+        scanf("%d", &ans2);
 
         if (ans2 == 3)
         {
@@ -80,7 +80,7 @@ int main()
         printf("4) All remained\n");
 
         printf("Enter your Answer\n");
-        scanf("%d", ans3);
+        scanf("%d", &ans3);
 
         if (ans3 == 1)
         {
@@ -102,7 +102,7 @@ int main()
         printf("4)Famous & popularity\n");
 
         printf("Enter your Answer\n");
-        scanf("%d", ans4);
+        scanf("%d", &ans4);
 
         if (ans4 == 2)
         {
@@ -124,7 +124,7 @@ int main()
         printf("4) Building");
 
         printf("Enter your Answer\n");
-        scanf("%d", ans5);
+        scanf("%d", &ans5);
 
         if ( ans5 == 2)
         {
